@@ -110,7 +110,7 @@
     "glob": "^13.0.6",
     "hammer-simulator": "0.0.1",
     "hugo-bin": "^0.62.3",
-    "ip": "^1.1.5",
+    "ip": "^2.0.1",
     "jquery": "^3.5.1",
     "karma": "^5.1.1",
     "karma-browserstack-launcher": "1.4.0",
